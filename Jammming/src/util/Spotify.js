@@ -1,4 +1,4 @@
-const clientId = "7187ecbbe8584d39ab264a9970339edf"; // enter api key
+const clientId = ""; // enter api key
 const redirectUri = "http://MusicMatch.surge.sh";
 let accessToken;
 
